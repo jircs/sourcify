@@ -75,7 +75,7 @@
     "solc": "^0.8.17",
     "swagger-ui-express": "^4.6.3",
     "winston": "^3.8.2",
-    "winston-loki": "^6.0.6",
+    "winston-loki": "^6.0.7",
     "yamljs": "^0.3.0"
   },
   "devDependencies": {
